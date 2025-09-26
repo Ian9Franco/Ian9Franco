@@ -29,6 +29,21 @@
 
 ---
 
+## 🌐 Connect with me  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://ian-pontorno-portfolio.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-franco-collada-pontorno/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ian9franco@gmail.com)  
+
+---
+
+## 🌍 About me  
+- 📍 Based in Buenos Aires, Argentina  
+- 🇪🇺 European citizenship  
+- 💬 Fluent in Spanish & conversational English (B2 level)  
+- 🎯 Looking for opportunities in IT to grow my career and contribute to innovative projects
+
+---
+
 ## 🚀 Tech Stack  
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
@@ -57,15 +72,6 @@
 ## 🔥 Extras  
 
 ![Visitors](https://komarev.com/ghpvc/?username=Ian9Franco&color=blue)  
-![snake gif](https://github.com/Ian9Franco/Ian9Franco/blob/output/github-contribution-grid-snake.svg)  
-
----
-
-## 🌐 Connect with me  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://ian-pontorno-portfolio.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-franco-collada-pontorno/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ian9franco@gmail.com)  
 
 ---
 
@@ -73,10 +79,5 @@
 I started my career in **customer service at a bingo hall**, and that experience gave me strong communication skills that I now apply when collaborating in tech teams.  
 Today I work as an **IT Assistant at Codere**, build web projects for fun and for friends’ startups, and I’ve also freelanced for international clients 🌍.  
 
----
 
-## 🌍 About me  
-- 📍 Based in Buenos Aires, Argentina  
-- 🇪🇺 European citizenship  
-- 💬 Fluent in Spanish & conversational English (B2 level)  
-- 🎯 Looking for opportunities in IT to grow my career and contribute to innovative projects
+
