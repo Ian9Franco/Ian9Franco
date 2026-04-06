@@ -79,11 +79,20 @@ Me especializo en construir aplicaciones escalables, tuberías de datos y herram
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&commits_year=2024&theme=radical&hide_rank=true&hide_border=true" alt="GitHub Stats 2024" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&commits_year=2025&theme=radical&hide_rank=true&hide_border=true" alt="GitHub Stats 2025" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&commits_year=2026&theme=radical&hide_rank=true&hide_border=true" alt="GitHub Stats 2026" />
-</div>
-<div align="center">
+  <h3>📊 Rendimiento Reciente (2024 - 2026)</h3>
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&commits_year=2024&theme=radical&hide_rank=true&hide_border=true&hide_title=true" height="150" alt="2024" /></td>
+      <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&commits_year=2025&theme=radical&hide_rank=true&hide_border=true&hide_title=true" height="150" alt="2025" /></td>
+      <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&commits_year=2026&theme=radical&hide_rank=true&hide_border=true&hide_title=true" height="150" alt="2026" /></td>
+    </tr>
+    <tr align="center">
+      <td><strong>2024</strong></td>
+      <td><strong>2025</strong></td>
+      <td><strong>2026</strong></td>
+    </tr>
+  </table>
+  <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ian9Franco&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
