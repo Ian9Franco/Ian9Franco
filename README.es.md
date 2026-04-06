@@ -1,6 +1,6 @@
 <div align="right">
   <strong>Idioma:</strong> 
-  <a href="./READMEgithub.md">Inglés</a> | 
+  <a href="./README.md">Inglés</a> | 
   <a href="./README.es.md">Español</a>
 </div>
 
