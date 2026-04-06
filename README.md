@@ -46,6 +46,16 @@ I specialize in building scalable applications, data pipelines, and automation t
   <img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black" alt="PowerBI" />
 </div>
 
+## 📈 Growth & Marketing Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Google%20Ads-4285F4?logo=googleads&logoColor=white" alt="Google Ads" />
+  <img src="https://img.shields.io/badge/-Meta%20Ads-0467DF?logo=meta&logoColor=white" alt="Meta Ads" />
+  <img src="https://img.shields.io/badge/-AI%20for%20Marketing-10A37F?logo=openai&logoColor=white" alt="AI Marketing" />
+  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/-CorelDRAW-FFFFFF?logo=coreldraw&logoColor=black" alt="CorelDRAW" />
+</div>
+
 ## 🔭 Currently I'm...
 
 - 📈 Working as a **Growth Engineer** at **Fanger Design**
@@ -61,8 +71,12 @@ I specialize in building scalable applications, data pipelines, and automation t
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ian9Franco&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ian9Franco&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <a href="https://github.com/Ian9Franco">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ian9Franco&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Ian9Franco">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ian9Franco&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
