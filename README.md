@@ -79,8 +79,8 @@ I specialize in building scalable applications, data pipelines, and automation t
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ian9Franco&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ian9Franco&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ian9Franco&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 <div align="center">
