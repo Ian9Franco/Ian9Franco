@@ -1,7 +1,14 @@
+<div align="right">
+  <strong>Idioma:</strong> 
+  <a href="./READMEgithub.md">Inglés</a> | 
+  <a href="./README.es.md">Español</a>
+</div>
+
 <div align="center">
-  <h1>👋 Hi, I'm Ian Pontorno</h1>
+  <h1>👋 Hola, soy Ian Pontorno</h1>
   <h3>Growth Engineer & Full-Stack Developer</h3>
-  <p>Passionate about building scalable systems that grow businesses through automation, analytics, and custom software.</p>
+  <p><strong>Conecto el mundo del Código con el Crecimiento.</strong><br/>
+  Apasionado por construir sistemas escalables que impulsan negocios mediante automatización, analítica y software a medida. Utilizo mi formación como desarrollador para diseñar soluciones de alto impacto en marketing y operaciones digitales.</p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-franco-collada-pontorno/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://ian-pontorno-portfolio.vercel.app/)
@@ -10,22 +17,22 @@
 
 ---
 
-## 🚀 Key Projects & Engineering Focus
+## 🚀 Proyectos Clave y Enfoque de Ingeniería
 
-I specialize in building scalable applications, data pipelines, and automation tools. Here are some of the technical challenges I've been tackling recently across my repositories:
+Me especializo en construir aplicaciones escalables, tuberías de datos y herramientas de automatización. Estos son algunos de los desafíos técnicos en los que he trabajado recientemente:
 
-- 🧠 **Desktop AI & Binary Distribution (`.smart.scan`)**
-  - **Architecture:** Developed a local AI-powered data indexing agent using modern LLMs to organize and analyze files.
-  - **Distribution:** Implemented compilation workflows to bundle the application into standalone executable (`.exe`) binaries. This simplifies deployment for end-users, delivering a seamless native application experience without requiring complex local environments.
+- 🧠 **IA de Escritorio y Distribución Binaria (`.smart.scan`)**
+  - **Arquitectura:** Desarrollé un agente de indexación de datos local potenciado por IA (LLMs) para organizar y analizar archivos.
+  - **Distribución:** Implementé flujos de compilación para empaquetar la aplicación en binarios ejecutables (`.exe`). Esto simplifica el despliegue para usuarios finales, entregando una experiencia nativa sin requerir entornos locales complejos.
 
-- 🕷️ **Advanced Data Extraction (`PropHunter`)**
-  - **Engineering:** Built a robust, automated web scraping pipeline to extract, sanitize, and structure complex real estate data efficiently, handling unstructured DOM data and automating data workflows.
+- 🕷️ **Extracción Avanzada de Datos (`PropHunter`)**
+  - **Ingeniería:** Construí un pipeline de web scraping automatizado y robusto para extraer, sanitizar y estructurar datos inmobiliarios complejos, manejando DOMs no estructurados y automatizando flujos de trabajo.
 
-- 🗄️ **Full-Stack & Cloud Databases (`netherious` & `netherious_svconfig`)**
-  - **Frontend:** Built dynamic user interfaces and configuration management dashboards using **React**.
-  - **Backend Integrations:** Leveraged **Supabase** for relational database management and designed custom RESTful APIs to synchronize game server configurations across distributed services in real-time.
+- 🗄️ **Bases de Datos Full-Stack y Nube (`netherious` & `netherious_svconfig`)**
+  - **Frontend:** Interfaces dinámicas y paneles de gestión de configuración usando **React**.
+  - **Integración Backend:** Uso de **Supabase** para gestión de bases de datos relacionales y diseño de APIs REST personalizadas para sincronizar configuraciones de servidores de juegos en tiempo real.
 
-## 💻 Tech Stack
+## 💻 Tech Stack (Desarrollo)
 
 <div align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" alt="React" />
@@ -52,23 +59,24 @@ I specialize in building scalable applications, data pipelines, and automation t
   <img src="https://img.shields.io/badge/-Google%20Ads-4285F4?logo=googleads&logoColor=white" alt="Google Ads" />
   <img src="https://img.shields.io/badge/-Meta%20Ads-0467DF?logo=meta&logoColor=white" alt="Meta Ads" />
   <img src="https://img.shields.io/badge/-AI%20for%20Marketing-10A37F?logo=openai&logoColor=white" alt="AI Marketing" />
+  <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/-CorelDRAW-FFFFFF?logo=coreldraw&logoColor=black" alt="CorelDRAW" />
 </div>
 
-## 🔭 Currently I'm...
+## 🔭 Actualmente estoy...
 
-- 📈 Working as a **Growth Engineer** at **Fanger Design**
-- 🎓 Studying **Software Engineering** (Licenciatura en Ingeniería Informática)
-- 🏆 Applying the **SAP ABAP Programming** Diploma I recently completed.
+- 📈 Trabajando como **Growth Engineer** en **Fanger Design**
+- 🎓 Estudiando **Ingeniería Informática** (UNLaM)
+- 🏆 Aplicando mis conocimientos del Diplomado en **Programación SAP ABAP** que finalicé recientemente.
 
-## 🌱 Always Learning
+## 🌱 Siempre Aprendiendo
 
-- Advanced backend architecture & API Design with **Python**
-- **Logic & mathematics** applied to computer science
-- Relational and Non-Relational Database Modeling
+- Arquitectura backend avanzada y diseño de APIs con **Python**
+- **Lógica y matemática** aplicada a la computación
+- Modelado de bases de datos relacionales y no relacionales
 
-## 📊 GitHub Analytics
+## 📊 Estadísticas de GitHub
 
 <div align="center">
   <a href="https://github.com/Ian9Franco">
@@ -87,5 +95,5 @@ I specialize in building scalable applications, data pipelines, and automation t
 ---
 
 <div align="center">
-  <em>Today I work as a Growth Engineer, build web projects for fun and for friends’ startups, and tackle freelance projects for international clients.<br/>My journey started in customer service at a bingo hall—giving me the strong communication skills I now use to lead engineering discussions in tech teams! 🌍</em>
+  <em>Hoy trabajo como Growth Engineer, desarrollo proyectos web por diversión y para startups de amigos, y realizo consultorías freelance internacionales.<br/>Mi camino comenzó en atención al cliente en un bingo, lo que me dio las habilidades de comunicación que hoy uso para liderar discusiones técnicas en equipos de ingeniería. 🌍</em>
 </div>
