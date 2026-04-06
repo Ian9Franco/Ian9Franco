@@ -79,12 +79,12 @@ Me especializo en construir aplicaciones escalables, tuberías de datos y herram
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://github.com/Ian9Franco">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ian9Franco&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Ian9Franco">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ian9Franco&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&commits_year=2024&theme=radical&hide_rank=true&hide_border=true" alt="GitHub Stats 2024" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&commits_year=2025&theme=radical&hide_rank=true&hide_border=true" alt="GitHub Stats 2025" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&commits_year=2026&theme=radical&hide_rank=true&hide_border=true" alt="GitHub Stats 2026" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ian9Franco&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
