@@ -12,53 +12,66 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ian9Franco/Ian9Franco/main/banner.png" alt="Banner" onerror="this.src='https://via.placeholder.com/800x200?text=Growth+Engineer+%26+Full-Stack+Developer'">
+  <img src="bnr.jpg" alt="Banner" style="width:100%; height:200px; object-fit:cover;">
 </p>
 
 #
 
-## 👋 About Me!
+## 👋 About me
 
-I'm a **Growth Engineer & Full-Stack Developer** 🚀 bridging the gap between **Code and Growth**.
+I'm a **Growth Engineer & Full-Stack Developer**. I bridge the gap between development, data, and marketing to build systems that drive measurable results.
 
-I'm passionate about building scalable systems that grow businesses through **automation, analytics, and custom software**. I leverage my developer background to engineer high-impact solutions for marketing and digital operations. 🌍
+I primarily work on:
+- **Process automation and data pipelines**
+- **Scraping and information structuring**
+- **Internal tools and dashboard development**
+- **Analytics integration into digital products**
 
-### 🌐 My Interests
-- **Full-Stack Development** 💻
-- **Growth Engineering** 📈
-- **Automation & Data Pipelines** 🤖
-- **Cloud Infrastructure** ☁️
+My approach is simple: useful software, business-oriented, and ready for real-world environments.
+
+## 🌐 What I specialize in
+- **Full-Stack Development**
+- **Growth Engineering** applied to product and marketing
+- **Automation and data processing**
+- **Cloud infrastructure and services**
 
 ---
 
-## 🚀 Key Projects & Engineering Focus
+## 🚀 Projects
 
-- 🧠 **Desktop AI & Binary Distribution (`.smart.scan`)**
-  - Developed a local AI-powered data indexing agent using modern LLMs.
-  - Implemented compilation workflows to bundle applications into standalone executable (`.exe`) binaries.
+### 🧠 .smart.scan — Desktop AI
+A local agent powered by LLMs for data indexing and processing.
+- **Local information processing**
+- **Distributed as a standalone executable (.exe)**
+- **Operationally focused application**
 
-- 🕷️ **Advanced Data Extraction (`PropHunter`)**
-  - Built a robust, automated web scraping pipeline to extract, sanitize, and structure complex real estate data.
+### 🕷️ PropHunter — Real Estate Scraping
+A pipeline for extracting and structuring real estate data.
+- **Automated scraping**
+- **Data normalization**
+- **Generating datasets ready for analysis**
 
-- 🗄️ **Full-Stack & Cloud Databases (`netherious` & `netherious_svconfig`)**
-  - Built dynamic UIs and config dashboards using **React**.
-  - Leveraged **Supabase** for relational database management and designed custom RESTful APIs.
+### 🗄️ netherious — Data + Dashboards
+A full-stack system for data management and visualization.
+- **React Frontend**
+- **Supabase Backend**
+- **Interfaces designed for operations and analysis**
+
+#
+
+## 🔭 Currently
+- Growth Engineer at **Fanger Design**
+- Pursuing a degree in **Systems Engineering** (UNLaM)
+- Diploma in **SAP ABAP**
+
+## 🌱 Always Evolving
+- **Backend Architecture and APIs** with Python
+- **Relational and Non-Relational Data Modeling**
+- **Applied Logic and Mathematics**
 
 #
 
-## 🔭 Currently I'm...
 
-- 📈 Working as a **Growth Engineer** at **Fanger Design**.
-- 🎓 Studying **Software Engineering** (Licenciatura en Ingeniería Informática).
-- 🏆 Applying the **SAP ABAP Programming** Diploma I recently completed.
-
-## 🌱 Always Learning
-
-- Advanced backend architecture & API Design with **Python**.
-- **Logic & mathematics** applied to computer science.
-- Relational and Non-Relational Database Modeling.
-
-#
 
 <div id="user-content-toc">
   <ul align="center">

@@ -12,53 +12,66 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ian9Franco/Ian9Franco/main/banner.png" alt="Banner" onerror="this.src='https://via.placeholder.com/800x200?text=Growth+Engineer+%26+Full-Stack+Developer'">
+  <img src="bnr.jpg" alt="Banner" style="width:100%; height:200px; object-fit:cover;">
 </p>
 
 #
 
-## 👋 ¡Sobre Mí!
+## 👋 Sobre mí
 
-Soy un **Growth Engineer & Full-Stack Developer** 🚀 conectando el mundo del **Código con el Marketing**.
+Soy **Growth Engineer & Full-Stack Developer**. Conecto desarrollo, datos y marketing para construir sistemas que generan resultados medibles.
 
-Me apasiona construir sistemas escalables que impulsan negocios mediante **automatización, analítica y software a medida**. Utilizo mi formación como desarrollador para diseñar soluciones de alto impacto en marketing y operaciones digitales. 🌍
+Trabajo principalmente en:
+- **Automatización de procesos y pipelines de datos**
+- **Scraping y estructuración de información**
+- **Desarrollo de herramientas internas y dashboards**
+- **Integración de analítica en productos digitales**
 
-### 🌐 Mis Intereses
-- **Desarrollo Full-Stack** 💻
-- **Growth Engineering** 📈
-- **Automatización y Pipelines de Datos** 🤖
-- **Infraestructura Cloud** ☁️
+Mi enfoque es simple: software útil, orientado a negocio y listo para usarse en entornos reales.
+
+## 🌐 En qué me especializo
+- **Desarrollo Full-Stack**
+- **Growth Engineering** aplicado a producto y marketing
+- **Automatización y procesamiento de datos**
+- **Infraestructura y servicios en la nube**
 
 ---
 
-## 🚀 Proyectos Clave y Enfoque de Ingeniería
+## 🚀 Proyectos
 
-- 🧠 **IA de Escritorio y Distribución Binaria (`.smart.scan`)**
-  - Desarrollé un agente de indexación de datos local potenciado por IA (LLMs).
-  - Implementé flujos de compilación para empaquetar aplicaciones en binarios ejecutables (`.exe`).
+### 🧠 .smart.scan — IA de escritorio
+Agente local con LLMs para indexación y procesamiento de datos.
+- **Procesamiento local de información**
+- **Distribución como ejecutable (.exe)**
+- **Aplicación orientada a uso operativo**
 
-- 🕷️ **Extracción Avanzada de Datos (`PropHunter`)**
-  - Construí un pipeline de web scraping automatizado y robusto para extraer, sanitizar y estructurar datos inmobiliarios complejos.
+### 🕷️ PropHunter — scraping inmobiliario
+Pipeline para extracción y estructuración de datos inmobiliarios.
+- **Scraping automatizado**
+- **Normalización de datos**
+- **Generación de datasets listos para análisis**
 
-- 🗄️ **Bases de Datos Full-Stack y Nube (`netherious` & `netherious_svconfig`)**
-  - Interfaces dinámicas y paneles de gestión usando **React**.
-  - Uso de **Supabase** para gestión de bases de datos relacionales y diseño de APIs REST personalizadas.
+### 🗄️ netherious — data + dashboards
+Sistema full-stack para gestión y visualización de datos.
+- **Frontend en React**
+- **Backend con Supabase**
+- **Interfaces orientadas a operación y análisis**
+
+#
+
+## 🔭 Ahora mismo
+- Growth Engineer en **Fanger Design**
+- Estudiante de **Ingeniería en Sistemas** (UNLaM)
+- Diplomado en **SAP ABAP**
+
+## 🌱 En evolución constante
+- **Arquitectura backend y APIs** en Python
+- **Modelado de datos** relacionales y no relacionales
+- **Lógica y matemática aplicada**
 
 #
 
-## 🔭 Actualmente estoy...
 
-- 📈 Trabajando como **Growth Engineer** en **Fanger Design**.
-- 🎓 Estudiando **Ingeniería Informática** (UNLaM).
-- 🏆 Aplicando mis conocimientos del Diplomado en **Programación SAP ABAP** que finalicé recientemente.
-
-## 🌱 Siempre Aprendiendo
-
-- Arquitectura backend avanzada y diseño de APIs con **Python**.
-- **Lógica y matemática** aplicada a la computación.
-- Modelado de bases de datos relacionales y no relacionales.
-
-#
 
 <div id="user-content-toc">
   <ul align="center">
@@ -130,6 +143,9 @@ Me apasiona construir sistemas escalables que impulsan negocios mediante **autom
 
 ---
 
-<div align="center">
-  <em>Hoy trabajo como Growth Engineer, desarrollo proyectos web por diversión y para startups de amigos, y realizo consultorías freelance internacionales.<br/>Mi camino comenzó en atención al cliente en un bingo, lo que me dio las habilidades de comunicación que hoy uso para liderar discusiones técnicas en equipos de ingeniería. 🌍</em>
+<<div align="center">
+  <em>
+    Hoy trabajo como Growth Engineer, construyo proyectos web y colaboro con startups.<br/>
+    Empecé en atención al cliente en un bingo. Ahora lidero discusiones técnicas. Buen upgrade.
+  </em>
 </div>
