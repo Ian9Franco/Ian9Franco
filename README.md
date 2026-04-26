@@ -4,92 +4,128 @@
   <a href="./README.es.md">Español</a>
 </div>
 
-<div align="center">
-  <h1>👋 Hi, I'm Ian Pontorno</h1>
-  <h3>Growth Engineer & Full-Stack Developer</h3>
-  <p><strong>I bridge the gap between Code and Growth.</strong><br/>
-  Passionate about building scalable systems that grow businesses through automation, analytics, and custom software. I leverage my developer background to engineer high-impact solutions for marketing and digital operations.</p>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-franco-collada-pontorno/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://ian-pontorno-portfolio.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ian9franco@gmail.com)
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block; color: #3178C6">Hi 👋, I'm <span style="color: #3ECF8E">Ian Pontorno</span></h1></summary>
+  </ul>
 </div>
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ian9Franco/Ian9Franco/main/banner.png" alt="Banner" onerror="this.src='https://via.placeholder.com/800x200?text=Growth+Engineer+%26+Full-Stack+Developer'">
+</p>
+
+#
+
+## 👋 About Me!
+
+I'm a **Growth Engineer & Full-Stack Developer** 🚀 bridging the gap between **Code and Growth**.
+
+I'm passionate about building scalable systems that grow businesses through **automation, analytics, and custom software**. I leverage my developer background to engineer high-impact solutions for marketing and digital operations. 🌍
+
+### 🌐 My Interests
+- **Full-Stack Development** 💻
+- **Growth Engineering** 📈
+- **Automation & Data Pipelines** 🤖
+- **Cloud Infrastructure** ☁️
 
 ---
 
 ## 🚀 Key Projects & Engineering Focus
 
-I specialize in building scalable applications, data pipelines, and automation tools. Here are some of the technical challenges I've been tackling recently across my repositories:
-
 - 🧠 **Desktop AI & Binary Distribution (`.smart.scan`)**
-  - **Architecture:** Developed a local AI-powered data indexing agent using modern LLMs to organize and analyze files.
-  - **Distribution:** Implemented compilation workflows to bundle the application into standalone executable (`.exe`) binaries. This simplifies deployment for end-users, delivering a seamless native application experience without requiring complex local environments.
+  - Developed a local AI-powered data indexing agent using modern LLMs.
+  - Implemented compilation workflows to bundle applications into standalone executable (`.exe`) binaries.
 
 - 🕷️ **Advanced Data Extraction (`PropHunter`)**
-  - **Engineering:** Built a robust, automated web scraping pipeline to extract, sanitize, and structure complex real estate data efficiently, handling unstructured DOM data and automating data workflows.
+  - Built a robust, automated web scraping pipeline to extract, sanitize, and structure complex real estate data.
 
 - 🗄️ **Full-Stack & Cloud Databases (`netherious` & `netherious_svconfig`)**
-  - **Frontend:** Built dynamic user interfaces and configuration management dashboards using **React**.
-  - **Backend Integrations:** Leveraged **Supabase** for relational database management and designed custom RESTful APIs to synchronize game server configurations across distributed services in real-time.
+  - Built dynamic UIs and config dashboards using **React**.
+  - Leveraged **Supabase** for relational database management and designed custom RESTful APIs.
 
-## 💻 Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff" alt="Python" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" />
-  <br/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=fff" alt="AWS" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000" alt="Firebase" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=000" alt="Supabase" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-SAP%20ABAP-0FAAFF?logo=sap&logoColor=fff" alt="SAP ABAP" />
-  <img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black" alt="PowerBI" />
-</div>
-
-## 📈 Growth & Marketing Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Google%20Ads-4285F4?logo=googleads&logoColor=white" alt="Google Ads" />
-  <img src="https://img.shields.io/badge/-Meta%20Ads-0467DF?logo=meta&logoColor=white" alt="Meta Ads" />
-  <img src="https://img.shields.io/badge/-AI%20for%20Marketing-10A37F?logo=openai&logoColor=white" alt="AI Marketing" />
-  <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/-CorelDRAW-FFFFFF?logo=coreldraw&logoColor=black" alt="CorelDRAW" />
-</div>
+#
 
 ## 🔭 Currently I'm...
 
-- 📈 Working as a **Growth Engineer** at **Fanger Design**
-- 🎓 Studying **Software Engineering** (Licenciatura en Ingeniería Informática)
+- 📈 Working as a **Growth Engineer** at **Fanger Design**.
+- 🎓 Studying **Software Engineering** (Licenciatura en Ingeniería Informática).
 - 🏆 Applying the **SAP ABAP Programming** Diploma I recently completed.
 
 ## 🌱 Always Learning
 
-- Advanced backend architecture & API Design with **Python**
-- **Logic & mathematics** applied to computer science
-- Relational and Non-Relational Database Modeling
+- Advanced backend architecture & API Design with **Python**.
+- **Logic & mathematics** applied to computer science.
+- Relational and Non-Relational Database Modeling.
 
-## 📊 GitHub Analytics
+#
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies & Tools 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&commits_year=2024&theme=radical&hide_rank=true&hide_border=true" alt="GitHub Stats 2024" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&commits_year=2025&theme=radical&hide_rank=true&hide_border=true" alt="GitHub Stats 2025" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&commits_year=2026&theme=radical&hide_rank=true&hide_border=true" alt="GitHub Stats 2026" />
+  <h3>💻 Development Stack</h3>
 </div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,py,java,html,css,tailwind,bootstrap,vite,docker,mysql,mongodb,supabase,firebase,aws&perline=14&theme=dark" />
+  </a>
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ian9Franco&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <h3>📈 Growth & Marketing Stack</h3>
 </div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,ps,ai,pr,figma&perline=14&theme=dark" />
+    <br>
+    <img src="https://img.shields.io/badge/-Google%20Ads-4285F4?logo=googleads&logoColor=white" alt="Google Ads" />
+    <img src="https://img.shields.io/badge/-Meta%20Ads-0467DF?logo=meta&logoColor=white" alt="Meta Ads" />
+    <img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black" alt="PowerBI" />
+  </a>
+</p>
+
+#
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> 📫 Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ian-franco-collada-pontorno/" target="_blank">
+<img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+</a>
+<a href="mailto:ian9franco@gmail.com" target="_blank">
+<img align="center" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="gmail" height="50" width="50" />
+</a>
+<a href="https://ian-pontorno-portfolio.vercel.app/" target="_blank">
+<img align="center" src="https://img.icons8.com/fluent/48/000000/web.png" alt="portfolio" height="50" width="50" />
+</a>
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">MY GITHUB STATS 📈</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+<a href="https://github.com/Ian9Franco">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ian9Franco&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
 
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Ian9Franco&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ian9Franco&color=3178C6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ---

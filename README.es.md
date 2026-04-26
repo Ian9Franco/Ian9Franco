@@ -4,101 +4,128 @@
   <a href="./README.es.md">Español</a>
 </div>
 
-<div align="center">
-  <h1>👋 Hola, soy Ian Pontorno</h1>
-  <h3>Growth Engineer & Full-Stack Developer</h3>
-  <p><strong>Conecto el mundo del Código con el Crecimiento.</strong><br/>
-  Apasionado por construir sistemas escalables que impulsan negocios mediante automatización, analítica y software a medida. Utilizo mi formación como desarrollador para diseñar soluciones de alto impacto en marketing y operaciones digitales.</p>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-franco-collada-pontorno/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://ian-pontorno-portfolio.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ian9franco@gmail.com)
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block; color: #3178C6">Hola 👋, soy <span style="color: #3ECF8E">Ian Pontorno</span></h1></summary>
+  </ul>
 </div>
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ian9Franco/Ian9Franco/main/banner.png" alt="Banner" onerror="this.src='https://via.placeholder.com/800x200?text=Growth+Engineer+%26+Full-Stack+Developer'">
+</p>
+
+#
+
+## 👋 ¡Sobre Mí!
+
+Soy un **Growth Engineer & Full-Stack Developer** 🚀 conectando el mundo del **Código con el Marketing**.
+
+Me apasiona construir sistemas escalables que impulsan negocios mediante **automatización, analítica y software a medida**. Utilizo mi formación como desarrollador para diseñar soluciones de alto impacto en marketing y operaciones digitales. 🌍
+
+### 🌐 Mis Intereses
+- **Desarrollo Full-Stack** 💻
+- **Growth Engineering** 📈
+- **Automatización y Pipelines de Datos** 🤖
+- **Infraestructura Cloud** ☁️
 
 ---
 
 ## 🚀 Proyectos Clave y Enfoque de Ingeniería
 
-Me especializo en construir aplicaciones escalables, tuberías de datos y herramientas de automatización. Estos son algunos de los desafíos técnicos en los que he trabajado recientemente:
-
 - 🧠 **IA de Escritorio y Distribución Binaria (`.smart.scan`)**
-  - **Arquitectura:** Desarrollé un agente de indexación de datos local potenciado por IA (LLMs) para organizar y analizar archivos.
-  - **Distribución:** Implementé flujos de compilación para empaquetar la aplicación en binarios ejecutables (`.exe`). Esto simplifica el despliegue para usuarios finales, entregando una experiencia nativa sin requerir entornos locales complejos.
+  - Desarrollé un agente de indexación de datos local potenciado por IA (LLMs).
+  - Implementé flujos de compilación para empaquetar aplicaciones en binarios ejecutables (`.exe`).
 
 - 🕷️ **Extracción Avanzada de Datos (`PropHunter`)**
-  - **Ingeniería:** Construí un pipeline de web scraping automatizado y robusto para extraer, sanitizar y estructurar datos inmobiliarios complejos, manejando DOMs no estructurados y automatizando flujos de trabajo.
+  - Construí un pipeline de web scraping automatizado y robusto para extraer, sanitizar y estructurar datos inmobiliarios complejos.
 
 - 🗄️ **Bases de Datos Full-Stack y Nube (`netherious` & `netherious_svconfig`)**
-  - **Frontend:** Interfaces dinámicas y paneles de gestión de configuración usando **React**.
-  - **Integración Backend:** Uso de **Supabase** para gestión de bases de datos relacionales y diseño de APIs REST personalizadas para sincronizar configuraciones de servidores de juegos en tiempo real.
+  - Interfaces dinámicas y paneles de gestión usando **React**.
+  - Uso de **Supabase** para gestión de bases de datos relacionales y diseño de APIs REST personalizadas.
 
-## 💻 Tech Stack (Desarrollo)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff" alt="Python" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" />
-  <br/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=fff" alt="AWS" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000" alt="Firebase" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=000" alt="Supabase" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-SAP%20ABAP-0FAAFF?logo=sap&logoColor=fff" alt="SAP ABAP" />
-  <img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black" alt="PowerBI" />
-</div>
-
-## 📈 Growth & Marketing Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Google%20Ads-4285F4?logo=googleads&logoColor=white" alt="Google Ads" />
-  <img src="https://img.shields.io/badge/-Meta%20Ads-0467DF?logo=meta&logoColor=white" alt="Meta Ads" />
-  <img src="https://img.shields.io/badge/-AI%20for%20Marketing-10A37F?logo=openai&logoColor=white" alt="AI Marketing" />
-  <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/-CorelDRAW-FFFFFF?logo=coreldraw&logoColor=black" alt="CorelDRAW" />
-</div>
+#
 
 ## 🔭 Actualmente estoy...
 
-- 📈 Trabajando como **Growth Engineer** en **Fanger Design**
-- 🎓 Estudiando **Ingeniería Informática** (UNLaM)
+- 📈 Trabajando como **Growth Engineer** en **Fanger Design**.
+- 🎓 Estudiando **Ingeniería Informática** (UNLaM).
 - 🏆 Aplicando mis conocimientos del Diplomado en **Programación SAP ABAP** que finalicé recientemente.
 
 ## 🌱 Siempre Aprendiendo
 
-- Arquitectura backend avanzada y diseño de APIs con **Python**
-- **Lógica y matemática** aplicada a la computación
-- Modelado de bases de datos relacionales y no relacionales
+- Arquitectura backend avanzada y diseño de APIs con **Python**.
+- **Lógica y matemática** aplicada a la computación.
+- Modelado de bases de datos relacionales y no relacionales.
 
-## 📊 Estadísticas de GitHub
+#
 
-<div align="center">
-  <h3>📊 Rendimiento Reciente (2024 - 2026)</h3>
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&commits_year=2024&theme=radical&hide_rank=true&hide_border=true&hide_title=true" height="150" alt="2024" /></td>
-      <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&commits_year=2025&theme=radical&hide_rank=true&hide_border=true&hide_title=true" height="150" alt="2025" /></td>
-      <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&commits_year=2026&theme=radical&hide_rank=true&hide_border=true&hide_title=true" height="150" alt="2026" /></td>
-    </tr>
-    <tr align="center">
-      <td><strong>2024</strong></td>
-      <td><strong>2025</strong></td>
-      <td><strong>2026</strong></td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ian9Franco&layout=compact&theme=tokyonight" alt="Top Languages" />
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologías y Herramientas 👨🏻‍💻</h2></summary>
+  </ul>
 </div>
 
 <div align="center">
+  <h3>💻 Stack de Desarrollo</h3>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,py,java,html,css,tailwind,bootstrap,vite,docker,mysql,mongodb,supabase,firebase,aws&perline=14&theme=dark" />
+  </a>
+</p>
+
+<div align="center">
+  <h3>📈 Stack de Growth & Marketing</h3>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,ps,ai,pr,figma&perline=14&theme=dark" />
+    <br>
+    <img src="https://img.shields.io/badge/-Google%20Ads-4285F4?logo=googleads&logoColor=white" alt="Google Ads" />
+    <img src="https://img.shields.io/badge/-Meta%20Ads-0467DF?logo=meta&logoColor=white" alt="Meta Ads" />
+    <img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black" alt="PowerBI" />
+  </a>
+</p>
+
+#
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> 📫 Conéctate Conmigo 🤝</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ian-franco-collada-pontorno/" target="_blank">
+<img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+</a>
+<a href="mailto:ian9franco@gmail.com" target="_blank">
+<img align="center" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="gmail" height="50" width="50" />
+</a>
+<a href="https://ian-pontorno-portfolio.vercel.app/" target="_blank">
+<img align="center" src="https://img.icons8.com/fluent/48/000000/web.png" alt="portfolio" height="50" width="50" />
+</a>
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">ESTADÍSTICAS DE GITHUB 📈</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+<a href="https://github.com/Ian9Franco">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ian9Franco&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ian9Franco&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
+
+<div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Ian9Franco&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ian9Franco&color=3178C6&style=flat-square&label=Vistas+del+Perfil" alt="Profile Views" />
 </div>
 
 ---
