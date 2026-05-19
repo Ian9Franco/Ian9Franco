@@ -39,6 +39,16 @@ My approach is simple: useful software, business-oriented, and ready for real-wo
 
 ## 🚀 Projects
 
+### 🎮 MIM — Minecraft Intelligent Manager
+A premium, high-performance platform for managing, optimizing, and distributing Minecraft mods, packaged as a hybrid desktop application (Next.js/React + Tauri Rust).
+- **MIM (Modpack Maker) & MIMU (User Mode)**: Dual operational modes tailored for advanced creators (hotkey-based classification and zip builder) and end-users (world manager and 1-click mod installation).
+- **Core Engine & JAR Bytecode Scanner**: High-speed scanner extracting loaders, dependencies, and SHA-1 hashes directly from compiled archives without decompressing.
+- **SAGE Crash & Recovery Engine**: Master diagnostics parsing Java crash logs, identifying conflicts, and executing 1-click repairs. Features a custom binary NBT parser to relocate players from corrupted chunks or download missing dependencies on the fly.
+- **Security Engine & Malware Detector**: Static analysis scanner on Java bytecode (detecting process executions, reflection abuse, and system calls) integrated with an asynchronous VirusTotal API pipeline.
+- **ALRT & Event-Driven Architecture**: Decoupled event bus running at 60fps (requestAnimationFrame batching) coupled with an incident correlation engine utilizing IndexedDB.
+- **TWEAK Optimization Engine**: Dynamic tuning engine reading local hardware to output optimized JVM parameters (ZGC/G1GC), resolve keybind conflicts, and customize mod configurations.
+- **Stunning Glassmorphic UI**: High-fidelity theme featuring virtual lists scrolling smoothly at 60fps for 1000+ mods, interactive onboarding, and custom discovery marquees (FOMO) unifiying CurseForge & Modrinth.
+
 ### 🧠 .smart.scan — Desktop AI
 A local agent powered by LLMs for data indexing and processing.
 - **Local information processing**
