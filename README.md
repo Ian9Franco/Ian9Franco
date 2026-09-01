@@ -39,15 +39,22 @@ My approach is simple: useful software, business-oriented, and ready for real-wo
 
 ## 🚀 Projects
 
-### 🎮 MIM — Minecraft Intelligent Manager
-A premium, high-performance platform for managing, optimizing, and distributing Minecraft mods, packaged as a hybrid desktop application (Next.js/React + Tauri Rust).
-- **MIM (Modpack Maker) & MIMU (User Mode)**: Dual operational modes tailored for advanced creators (hotkey-based classification and zip builder) and end-users (world manager and 1-click mod installation).
-- **Core Engine & JAR Bytecode Scanner**: High-speed scanner extracting loaders, dependencies, and SHA-1 hashes directly from compiled archives without decompressing.
-- **SAGE Crash & Recovery Engine**: Master diagnostics parsing Java crash logs, identifying conflicts, and executing 1-click repairs. Features a custom binary NBT parser to relocate players from corrupted chunks or download missing dependencies on the fly.
-- **Security Engine & Malware Detector**: Static analysis scanner on Java bytecode (detecting process executions, reflection abuse, and system calls) integrated with an asynchronous VirusTotal API pipeline.
-- **ALRT & Event-Driven Architecture**: Decoupled event bus running at 60fps (requestAnimationFrame batching) coupled with an incident correlation engine utilizing IndexedDB.
-- **TWEAK Optimization Engine**: Dynamic tuning engine reading local hardware to output optimized JVM parameters (ZGC/G1GC), resolve keybind conflicts, and customize mod configurations.
-- **Stunning Glassmorphic UI**: High-fidelity theme featuring virtual lists scrolling smoothly at 60fps for 1000+ mods, interactive onboarding, and custom discovery marquees (FOMO) unifiying CurseForge & Modrinth.
+### 🎮 MIM — Minecraft Intelligent Manager & Ecosystem
+A production-ready, full-stack modding ecosystem unifying a native desktop suite (**Electron 42 + Next.js 16 Standalone / React 19**), a mobile-first web app (**MIMweb**), and real-time community collaboration (**FOMO Cloud** via Supabase).
+- **MIM (Modpack Maker) & MIMU (User Mode)**: Dual operational modes tailored for creators (hotkey-based `1-9` rapid classification, client/server tier isolation, and 1-click ZIP builder) alongside a streamlined mode for casual players.
+- **MIMweb & FOMO Hub (Mobile-First)**: Companion web app allowing users to discover mods via dual Modrinth/CurseForge search, translate Markdown descriptions in real time, and curate modpack drafts on the go.
+- **FOMO Cloud (Supabase Realtime & PostgreSQL)**: Collaborative cloud layer featuring user clubs, pinned mod recommendations, and shared drafts synchronized seamlessly between mobile and desktop.
+- **SAGE Crash Forensics & NBT Player Rescue**: Heuristic stacktrace analyzer combined with an interactive binary NBT editor to repair inventories, unstick players from corrupted chunks, and auto-generate backups (`.mim_bak`).
+- **Security Engine & VirusTotal Cloud**: Static Java bytecode analysis (detecting reflection abuse and suspicious system calls) backed by an asynchronous VirusTotal API pipeline.
+- **Aduana (Real-Time Deduplication Gate)**: Zero-latency file monitoring powered by Chokidar that hashes downloads in milliseconds and serves cached local copies to save bandwidth.
+- **Liquid Glass UI & 3D Skinview Canvas**: Immersive glassmorphic interface with 60fps virtualized lists (`react-window`), interactive soundscapes, and live 3D WebGL player rendering.
+
+### ⚡ Elseframe Comics — Web Reader & Lore Platform
+An interactive, high-impact Pop-Art / Sci-Fi web comic platform built with **Next.js 15 (Turbopack)**, **TypeScript**, **Framer Motion**, and a zero-cost decoupled storage architecture via jsDelivr CDN.
+- **Cinematic Zoom Reader**: Guided panel-by-panel reading with smooth bezier transitions, dynamic spoiler masking, and custom comic typography (*Bangers*, *Anime Ace*).
+- **In-App Visual Dialogue & Camera Editor**: Real-time drag-and-drop bubble editor with interactive cubic-bezier anchor tails, camera stop sequencer, and magnetic snap-to-grid.
+- **V.O.P.S. Classified Lore Hub**: Progressive unlock system tracking reading milestones in `localStorage` to reveal technical dossiers, character stats, blueprints, and interactive timelines.
+- **Zero-Cost Decoupled Asset Pipeline**: High-res WebP CDN distribution serving images globally without consumption bottlenecks.
 
 ### 🧠 .smart.scan — Desktop AI
 A local agent powered by LLMs for data indexing and processing.
@@ -81,11 +88,9 @@ A full-stack system for data management and visualization.
 
 #
 
-
-
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies & Tools 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies & Tools 👨🏻💻</h2></summary>
   </ul>
 </div>
 
