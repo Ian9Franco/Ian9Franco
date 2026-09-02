@@ -23,10 +23,10 @@ I'm a **Growth Engineer & Full-Stack Developer** based in Buenos Aires, Argentin
 
 My professional foundation combines hands-on engineering (modern full-stack architecture, desktop clients, local AI workflows) with operational optimization and revenue-driven marketing (Meta Ads, Google Ads, conversion funnels). I turn complex operational bottlenecks and business goals into automated, maintainable systems.
 
-- 🔭 **Focus Areas**: Full-Stack Web & Desktop Apps, Applied AI & Local Semantic Search, ETL & Data Pipelines, Performance Marketing & Growth Systems.
-- 💼 **Current Role**: Marketing Engineer (Paid Media & Automation) at **Fanger Design**.
-- 🌐 **Portfolio**: [ian-pontorno-portfolio.vercel.app](https://ian-pontorno-portfolio.vercel.app/)
-- 📬 **Connect**: [LinkedIn](https://www.linkedin.com/in/ian-franco-collada-pontorno/) • [GitHub](https://github.com/Ian9Franco)
+* 🔭 **Focus Areas**: Full-Stack Web & Desktop Apps, Applied AI & Local Semantic Search, ETL & Data Pipelines, Performance Marketing & Growth Systems.
+* 💼 **Current Role**: Marketing Engineer (Paid Media & Automation) at **Fanger Design**.
+* 🌐 **Portfolio**: [ian-pontorno-portfolio.vercel.app](https://ian-pontorno-portfolio.vercel.app/)
+* 📬 **Connect**: [LinkedIn](https://www.linkedin.com/in/ian-franco-collada-pontorno/) • [GitHub](https://github.com/Ian9Franco) • [Instagram](https://www.instagram.com/ian.franco._/) • [X](https://x.com/ianpontorno?s=11) • [Pinterest](https://pin.it/3l24X3nNr)
 
 ---
 
